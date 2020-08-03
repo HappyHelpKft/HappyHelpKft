@@ -14,4 +14,4 @@
     <img src="https://img.shields.io/badge/Front End-Vue.js-42b883"/>
 </p>
 
-*Pssztt!- Nyomj egy ⭐-ot ha tetszik, amit csinálunk és kövess minket!😉
+*Pssztt!- Nyomj ⭐-ot egy repora ha tetszik, amit csinálunk és kövess minket!😉
