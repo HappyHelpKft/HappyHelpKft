@@ -1,9 +1,9 @@
-![HappyHelpKft](https://github.com/HappyHelpKft/HappyHelpKft/blob/master/img/github_happyhelp_banner.png)
+![HappyHelpKft](https://github.com/HappyHelpKft/HappyHelpKft/blob/master/img/github_cropped.png)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/company/happyhelp-nonprofit-k%C3%B6zhaszn%C3%BA-kft.) 
 [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/happyhelpszeged/) 
 
-### Sziasztok! 👋 Mi vagyunbk a Happy Help
-#### Civil szervezeteknek kínálunk megoldásokat
+### Sziasztok! 👋 Mi vagyunk a Happy Help!
+#### Civil szervezeteknek kínálunk megoldásokat!
 ##### Megmutatjuk, hogy igenis lehet szoftvert úgy megtervezni, hogy az mindenki számára akadálymentes, tehát elérhető legyen. De megmutatjuk a fogyatékkal élők színes és érdekes világát is a társadalmi érzékenyítés elmélyítése érdekében! Keressél bátran! 
 
 <p>
